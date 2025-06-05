@@ -216,4 +216,7 @@ source "drivers/gps/Kconfig"
 
 source "drivers/halls/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
